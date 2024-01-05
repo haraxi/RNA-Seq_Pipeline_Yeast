@@ -1,5 +1,10 @@
 # RNA-Seq Pipeline Yeast
 
+## **Course** ## 
+
+
+
+
 This is my implementation of an RNA-seq pipeline using Yeast RNA-seq data from the European Nucleotide Archive (Project Accession: [PRJEB35903](https://www.ebi.ac.uk/ena/browser/view/PRJEB35903)). 
 Here, I wrote a Bash script to carry out integral steps in RNA-seq analysis including quality check, trimming, alignment and quantification, effictively creating a pipeline to carry out these tasks.
 Each step utilised a different linux-based bioinformatics tool to carry out the specific task in the pipeline. 
