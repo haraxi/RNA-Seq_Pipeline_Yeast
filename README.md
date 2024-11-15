@@ -1,7 +1,7 @@
 # RNA-Seq Pipeline Yeast
 
 ## **Course Name** 
-Practical Computing for Scientists (03-701)
+Practical Computing for Scientists (03-701)  
 Carnegie Mellon University, Pittsburgh, PA
 
 ## **Overview**
