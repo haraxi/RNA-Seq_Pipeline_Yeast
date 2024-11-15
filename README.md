@@ -15,6 +15,6 @@ Each step utilised a different linux-based bioinformatics tool to carry out the 
 4. Quantification: [FeatureCounts](https://subread.sourceforge.net/featureCounts.html)
 
 ## **Results**
-On running the complete script, I was able to obtain an overall alignment of 95.91% to the reference yeast genome, and quantify the gene expression levels. On quantification, I identified the number of genes with no expression in the control sample as well as the genes with the highest expression levels. A detailed explanation of the project workflow and results can be found in [the project report](FinalProjectReport.pdf).
+On running the complete script, I was able to obtain an overall alignment of 95.91% to the reference yeast genome, and quantify the gene expression levels. On quantification, I identified the number of genes with no expression in the control sample as well as the genes with the highest expression levels. A detailed explanation of the project workflow and results can be found in the [project report](FinalProjectReport.pdf).
 
 Future work on this project will include running the pipeline on a treatment sample as well, and carrying out a comparative analysis of gene expression in the control and sample using differential expression analysis.
